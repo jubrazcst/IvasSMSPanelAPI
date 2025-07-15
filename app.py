@@ -1,3 +1,5 @@
+#Copyright @ISmartCoder
+#Updates Channel t.me/TheSmartDev
 from flask import Flask, request, jsonify
 from datetime import datetime
 import cloudscraper
