@@ -1,1 +1,80 @@
-#Your Json Formated Cookies Here
+[
+    {
+        "domain": ".ivasms.com",
+        "expirationDate": 1769478434,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "fb.1.1761378392253.138516893367790472"
+    },
+    {
+        "domain": ".ivasms.com",
+        "expirationDate": 1761702494,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gat_gtag_UA_191466370_1",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".ivasms.com",
+        "expirationDate": 1761788834,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.314528212.1761659731"
+    },
+    {
+        "domain": "www.ivasms.com",
+        "expirationDate": 1761709634.016162,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6InphTElKM3lmdmlUaTNqdUZzSE02VkE9PSIsInZhbHVlIjoiOTJaY2FheEhqaG5wam5UVjkxcW13cW5VdVR4V1A0SjBLb1EwODYwMHhQaFdDY21Tc0tQQXNDSjhhVFBEcTM1azZ4RDh4V2ZxZzhQUHgyTFpWbjNLRzJneTMzdTk2cXY4dlY0YmNkNm92UEFmd2hqV0pKVCtOQk94UnpGTytBYVIiLCJtYWMiOiIzYTBkY2FiZGRiZmNiOWI1ZTE4OWMxYTgxMjQ0NjczYmQ1YjU1ZGUwMzFiOTEyMDRhMzhkNWEwN2Y1Y2Y4NWJhIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": ".ivasms.com",
+        "expirationDate": 1796262434.171061,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1946365836.1761378392"
+    },
+    {
+        "domain": "www.ivasms.com",
+        "expirationDate": 1761709634.016692,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "ivas_sms_session",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IlFkVnU3V2pDQ1k5MElrdy9YK1AwSkE9PSIsInZhbHVlIjoidXJ2VkVRbmQ0SUhOZ2xrNTNYYkpHUlRhanRsSWtHVmgzMFd1N1piRmsyRnNnUzJFTVhUSzRZL0pkY3JUUVpMZWxWYkZnelc3RWtWT0xlYmo3cmpRYjFmVkJ2RDl4MGVIOWkveU9hY0I1aWFYK3Q1cUUrUHV4OGR2Ri9NL21tTm8iLCJtYWMiOiJhNWU5ZDQwOGU5N2FhZTFmZWRmYzYyZjQ0OTYzMzgwNTc4NDAwNmFlMzI0Mjg5NzI1NmM4MzJiYWNkZTMxNTAzIiwidGFnIjoiIn0%3D"
+    }
+]
